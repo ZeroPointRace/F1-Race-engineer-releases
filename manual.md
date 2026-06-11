@@ -13,6 +13,7 @@
 4. [F1 25 beállítása](#4-f1-25-beállítása)
 5. [Verseny közbeni használat](#5-verseny-közbeni-használat)
 6. [Hibaelhárítás](#6-hibaelhárítás)
+7. [Biztonság és adatvédelem](#7-biztonság-és-adatvédelem)
 
 ---
 
@@ -283,6 +284,45 @@ Ha a fenti megoldások nem segítettek, írj a support-emailre és mellékeld a 
 - Windows verzió (Win10 / Win11)
 
 📧 **f1zeropointracing@gmail.com**
+
+---
+
+## 7. Biztonság és adatvédelem
+
+### A telepítő ellenőrzése (SHA256)
+
+Minden kiadásnál a telepítő mellett közzétesszük a fájl **SHA256
+ellenőrzőösszegét** (a [releases oldalon](https://github.com/ZeroPointRace/F1-Race-engineer-releases/releases/latest)).
+Így meggyőződhetsz róla, hogy a letöltött fájl **sértetlen és nem módosított**:
+
+1. Töltsd le a telepítőt
+2. Nyiss egy PowerShell-ablakot, és futtasd:
+   ```powershell
+   Get-FileHash "F1-Race-Engineer-Setup-x.y.z.exe"
+   ```
+3. Hasonlítsd össze a kiírt értéket a releases oldalon szereplővel — ha **megegyezik**, a fájl hiteles és nem módosította senki letöltés közben.
+
+### „Ismeretlen kiadó" figyelmeztetés
+
+A telepítő jelenleg nincs (fizetős) **kód-aláírási tanúsítvánnyal** ellátva, ezért a
+Windows SmartScreen „ismeretlen kiadó" figyelmeztetést adhat az első futtatáskor.
+**A fájl biztonságos** — kattints a **„További információ" → „Futtatás mindenképpen"**
+gombra. A fenti SHA256-ellenőrzéssel bármikor megbizonyosodhatsz a fájl hitelességéről.
+
+### Milyen adatot kezelünk?
+
+A program **a lehető legkevesebb adatot** kezeli, és a verseny-adataidat **nem** küldi sehova:
+
+| Adat | Mire | Megjegyzés |
+|---|---|---|
+| **E-mail cím** | A licenckulcs kiküldéséhez | A kulcs igénylésekor te adod meg |
+| **Hardver-azonosító (HWID)** | A licenc a gépedhez kötéséhez | A CPU/alaplap/lemez azonosítójának **egyirányú hash**-e — nem visszafejthető, és megakadályozza, hogy egy kulcsot többen használjanak |
+
+> 🔒 **A verseny-telemetriád helyben marad** — a köridők, gumiadatok, pozíciók
+> **nem** kerülnek el a gépedről. A licenc-ellenőrzéskor a program **kizárólag** a
+> fenti két adatot küldi a szerverre, a kulcs érvényességének igazolásához.
+
+Adat-törlési kérés vagy kérdés: **f1zeropointracing@gmail.com**
 
 ---
 

@@ -13,6 +13,7 @@
 4. [Configuring F1 25](#4-configuring-f1-25)
 5. [Using it during a race](#5-using-it-during-a-race)
 6. [Troubleshooting](#6-troubleshooting)
+7. [Security and privacy](#7-security-and-privacy)
 
 ---
 
@@ -214,6 +215,45 @@ If the above didn't help, email support and include:
 - Windows version (Win10 / Win11)
 
 📧 **f1zeropointracing@gmail.com**
+
+---
+
+## 7. Security and privacy
+
+### Verifying the installer (SHA256)
+
+For every release we publish the installer's **SHA256 checksum** (on the
+[releases page](https://github.com/ZeroPointRace/F1-Race-engineer-releases/releases/latest)).
+This lets you confirm the downloaded file is **intact and unmodified**:
+
+1. Download the installer
+2. Open a PowerShell window and run:
+   ```powershell
+   Get-FileHash "F1-Race-Engineer-Setup-x.y.z.exe"
+   ```
+3. Compare the printed value with the one on the releases page — if they **match**, the file is authentic and was not tampered with during download.
+
+### "Unknown publisher" warning
+
+The installer is not currently (paid) **code-signed**, so Windows SmartScreen may show
+an "unknown publisher" warning on first run. **The file is safe** — click
+**"More info" → "Run anyway"**. You can verify authenticity at any time with the
+SHA256 check above.
+
+### What data we handle
+
+The app handles **as little data as possible**, and **never** sends your race data anywhere:
+
+| Data | Purpose | Note |
+|---|---|---|
+| **Email address** | To deliver your license key | You provide it when requesting a key |
+| **Hardware ID (HWID)** | To bind the license to your PC | A **one-way hash** of your CPU/motherboard/disk IDs — not reversible, and it prevents one key from being shared |
+
+> 🔒 **Your race telemetry stays local** — lap times, tyre data and positions
+> **never** leave your machine. During license validation the app sends **only** the
+> two items above to the server, to verify your key is valid.
+
+Data deletion requests or questions: **f1zeropointracing@gmail.com**
 
 ---
 

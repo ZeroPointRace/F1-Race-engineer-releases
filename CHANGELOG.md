@@ -8,6 +8,9 @@ Az egyes kiadások **felhasználói szintű** újdonságai és javításai. A le
 ## [Kiadatlan]
 - (a következő kiadás újdonságai ide kerülnek)
 
+## v1.0.4 — 2026-06-11
+- 🔧 Kisebb hibajavítások.
+
 ## v1.0.3 — 2026-06-07
 - 🔔 **Frissítés-sáv:** az app már AKKOR szól, amint új verzió elérhető (nem csak letöltés után), mutatja a letöltés állapotát, és kínálja az „Újraindítás most / Később" választást.
 - 📜 **Verziókövetés:** minden kiadás újdonságai megjelennek a frissítés-sávban és a Manual oldalon.

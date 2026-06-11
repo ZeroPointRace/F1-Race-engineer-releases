@@ -8,6 +8,9 @@ User-facing new features and fixes per release. Newest version on top.
 ## [Unreleased]
 - (new features for the next release go here)
 
+## v1.0.4 — 2026-06-11
+- 🔧 Minor bug fixes.
+
 ## v1.0.3 — 2026-06-07
 - 🔔 **Update banner:** the app now notifies you as soon as an update is available (not only after download), shows the download progress, and offers "Restart now / Later".
 - 📜 **Changelog:** each release's news appears in the update banner and on the Manual page.

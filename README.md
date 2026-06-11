@@ -16,6 +16,17 @@ A telepítés **egykattintásos**, és a program ezután **automatikusan frissü
 
 ---
 
+## 💬 Közösség / Community
+
+Kérdés, hibajelentés, ötlet vagy beszélgetés a többi versenyzővel?
+Csatlakozz a Discord-szerverhez:
+
+[![Discord](https://img.shields.io/badge/Discord-csatlakozz-5865F2?logo=discord&logoColor=white)](https://discord.gg/fbRscvmJtV)
+
+👉 **https://discord.gg/fbRscvmJtV**
+
+---
+
 ## 📖 Kézikönyv / Manual
 
 - [Felhasználói kézikönyv (magyar)](manual.md)
@@ -30,7 +41,7 @@ A telepítés **egykattintásos**, és a program ezután **automatikusan frissü
 
 ## ✉️ Támogatás / Support
 
-**f1zeropointracing@gmail.com**
+**f1zeropointracing@gmail.com** · 💬 [Discord](https://discord.gg/fbRscvmJtV)
 
 > Ez a repó **csak a kiadott telepítőket és a dokumentációt** tartalmazza —
 > a program forráskódját nem.

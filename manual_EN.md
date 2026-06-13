@@ -1,7 +1,7 @@
 # F1 Race Engineer — User Manual
 
 > **Game:** EA Sports F1 25 (base + 2026 Season Pack DLC) · **Version:** see the bottom-left corner of the main menu
-> **Support:** f1zeropointracing@gmail.com
+> **Support:** f1zeropointracing@gmail.com · **Community:** [Discord](https://discord.gg/fbRscvmJtV)
 
 ---
 
@@ -214,7 +214,7 @@ If the above didn't help, email support and include:
 - Which F1 25 version you use (base or 2026 DLC)
 - Windows version (Win10 / Win11)
 
-📧 **f1zeropointracing@gmail.com**
+📧 **f1zeropointracing@gmail.com** · 💬 **Discord:** https://discord.gg/fbRscvmJtV
 
 ---
 

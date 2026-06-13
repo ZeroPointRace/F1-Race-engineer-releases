@@ -8,6 +8,11 @@ User-facing new features and fixes per release. Newest version on top.
 ## [Unreleased]
 - (new features for the next release go here)
 
+## v1.0.5 — 2026-06-13
+- 💬 Discord community button in the main menu.
+- 🇬🇧 The English voice race engineer is now complete — every call-out is available in English.
+- 🔧 Minor fixes (language page layout).
+
 ## v1.0.4 — 2026-06-11
 - 🔧 Minor bug fixes.
 

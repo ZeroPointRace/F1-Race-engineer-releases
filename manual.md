@@ -1,7 +1,7 @@
 # F1 Race Engineer — Felhasználói Kézikönyv
 
 > **Játék:** EA Sports F1 25 (alap + 2026 Season Pack DLC) · **Verzió:** lásd a főmenü bal alsó sarkában
-> **Támogatás:** f1zeropointracing@gmail.com
+> **Támogatás:** f1zeropointracing@gmail.com · **Közösség:** [Discord](https://discord.gg/fbRscvmJtV)
 
 ---
 
@@ -283,7 +283,7 @@ Ha a fenti megoldások nem segítettek, írj a support-emailre és mellékeld a 
 - Melyik F1 25 verziót használod (alap vagy 2026 DLC)
 - Windows verzió (Win10 / Win11)
 
-📧 **f1zeropointracing@gmail.com**
+📧 **f1zeropointracing@gmail.com** · 💬 **Discord:** https://discord.gg/fbRscvmJtV
 
 ---
 

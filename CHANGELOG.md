@@ -8,6 +8,9 @@ Az egyes kiadások **felhasználói szintű** újdonságai és javításai. A le
 ## [Kiadatlan]
 - (a következő kiadás újdonságai ide kerülnek)
 
+## v1.0.6 — 2026-06-19
+- 🛠️ **Hibabejelentő gomb:** ha valami nem működik, a főmenüből egy kattintással elküldheted a naplót a támogatásnak — így gyorsabban tudunk segíteni.
+
 ## v1.0.5 — 2026-06-13
 - 💬 Discord közösségi gomb a főmenüben.
 - 🇬🇧 Az angol nyelvű hangos versenymérnök mostantól teljes — minden tanács angolul is megszólal.

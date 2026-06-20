@@ -8,6 +8,10 @@ Az egyes kiadások **felhasználói szintű** újdonságai és javításai. A le
 ## [Kiadatlan]
 - (a következő kiadás újdonságai ide kerülnek)
 
+## v1.0.7 — 2026-06-20
+- 🌐 **PC IP a főmenüben induláskor:** a géped IP-címe már rögtön indításkor megjelenik (eddig csak a Verseny nézet megnyitása után jött elő).
+- 🪟 **Windows 11 kompatibilitás:** a licenc-aktiválás és a próbaverzió az újabb Windows 11-eken (24H2) is megbízhatóan működik.
+
 ## v1.0.6 — 2026-06-19
 - 🛠️ **Hibabejelentő gomb:** ha valami nem működik, a főmenüből egy kattintással elküldheted a naplót a támogatásnak — így gyorsabban tudunk segíteni.
 

@@ -8,6 +8,9 @@ Az egyes kiadások **felhasználói szintű** újdonságai és javításai. A le
 ## [Kiadatlan]
 - (a következő kiadás újdonságai ide kerülnek)
 
+## v1.0.8 — 2026-06-21
+- 🔑 **Megbízhatóbb licenc/próbaverzió:** egy átmeneti internetkimaradás már nem zár ki — a program offline is működik (a próbaverzió a hátralévő napokig, az aktivált licenc 30 napig), és csak valódi licenc-visszavonáskor áll le.
+
 ## v1.0.7 — 2026-06-20
 - 🌐 **PC IP a főmenüben induláskor:** a géped IP-címe már rögtön indításkor megjelenik (eddig csak a Verseny nézet megnyitása után jött elő).
 - 🪟 **Windows 11 kompatibilitás:** a licenc-aktiválás és a próbaverzió az újabb Windows 11-eken (24H2) is megbízhatóan működik.

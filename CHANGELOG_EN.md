@@ -8,6 +8,9 @@ User-facing new features and fixes per release. Newest version on top.
 ## [Unreleased]
 - (new features for the next release go here)
 
+## v1.0.8 — 2026-06-21
+- 🔑 **More reliable licence/trial:** a temporary internet outage no longer locks you out — the app keeps working offline (the trial for its remaining days, an activated licence for 30 days), and only stops on an actual licence revocation.
+
 ## v1.0.7 — 2026-06-20
 - 🌐 **PC IP in the main menu at startup:** your PC's IP now shows right away on launch (previously only after opening the Race view).
 - 🪟 **Windows 11 compatibility:** licence activation and the trial now work reliably on newer Windows 11 (24H2).

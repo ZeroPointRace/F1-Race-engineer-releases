@@ -26,7 +26,7 @@
 | Operációs rendszer | Windows 10 64-bit (vagy újabb) |
 | RAM | 4 GB |
 | Processzor | Bármely 2015 utáni x64 CPU |
-| Hálózat | Internetkapcsolat (licenc-aktiváláshoz és első indításhoz) |
+| Hálózat | **Folyamatos internetkapcsolat ajánlott** — kell a licenc-ellenőrzéshez **és a hangos mérnökhöz** (a hang online szolgáltatással készül). Internet nélkül a program fut, de **nincs hang**. Ha indításkor nincs net (vagy a tűzfal blokkolja), a főmenüben figyelmeztetés jelenik meg — ellenőrizd a kapcsolatot/tűzfalat. |
 | Játék | EA Sports F1 25 (PC) |
 
 ### A telepítő letöltése

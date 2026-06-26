@@ -8,6 +8,10 @@ Az egyes kiadások **felhasználói szintű** újdonságai és javításai. A le
 ## [Kiadatlan]
 - (a következő kiadás újdonságai ide kerülnek)
 
+## v1.0.9 — 2026-06-26
+- 🔒 **Megbízhatóbb, offline is működő licencvédelem:** a licenc és a próbaverzió ellenőrzése mostantól kriptográfiailag aláírt kulcson alapul — internet nélkül is stabilan működik (max. 30 napig offline), és csak valódi visszavonáskor áll le. Frissítés után egyszer szükséges internetkapcsolat.
+- 🌐 Az „internet szükséges" üzenet immár minden támogatott nyelven megjelenik.
+
 ## v1.0.8 — 2026-06-21
 - 🔑 **Megbízhatóbb licenc/próbaverzió:** egy átmeneti internetkimaradás már nem zár ki — a program offline is működik (a próbaverzió a hátralévő napokig, az aktivált licenc 30 napig), és csak valódi licenc-visszavonáskor áll le.
 

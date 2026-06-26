@@ -8,6 +8,10 @@ User-facing new features and fixes per release. Newest version on top.
 ## [Unreleased]
 - (new features for the next release go here)
 
+## v1.0.9 — 2026-06-26
+- 🔒 **More reliable, offline-capable licence protection:** licence and trial checks are now based on a cryptographically signed key — it works reliably offline (up to 30 days) and only stops on an actual revocation. One internet connection is needed after updating.
+- 🌐 The "internet required" message now appears in every supported language.
+
 ## v1.0.8 — 2026-06-21
 - 🔑 **More reliable licence/trial:** a temporary internet outage no longer locks you out — the app keeps working offline (the trial for its remaining days, an activated licence for 30 days), and only stops on an actual licence revocation.
 

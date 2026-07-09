@@ -8,6 +8,10 @@ User-facing new features and fixes per release. Newest version on top.
 ## [Unreleased]
 - (new features for the next release go here)
 
+## v1.0.10 — 2026-07-09
+- 🚦 **Govee flag light support:** your Govee smart light shows race flags in real time (green, local yellow for your own sector, blue, red, Safety Car). Pick the light and set per-event colour, brightness and blink in Settings.
+- 🌬️ **Wind simulator support:** speed-based wind via Arduino + fans, configurable in Settings (port, speed range, strength).
+
 ## v1.0.9 — 2026-06-26
 - 🔒 **More reliable, offline-capable licence protection:** licence and trial checks are now based on a cryptographically signed key — it works reliably offline (up to 30 days) and only stops on an actual revocation. One internet connection is needed after updating.
 - 🌐 The "internet required" message now appears in every supported language.

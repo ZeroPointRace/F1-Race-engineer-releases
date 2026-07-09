@@ -8,6 +8,10 @@ Az egyes kiadások **felhasználói szintű** újdonságai és javításai. A le
 ## [Kiadatlan]
 - (a következő kiadás újdonságai ide kerülnek)
 
+## v1.0.10 — 2026-07-09
+- 🚦 **Govee zászlófény támogatás:** a Govee okoslámpád valós időben jelzi a verseny-zászlókat (zöld, sárga a saját szektorodban, kék, piros, Safety Car). A Beállítások menüben kiválaszthatod a lámpát, és eseményenként állíthatod a színt, fényerőt és a villogást.
+- 🌬️ **Szélszimulátor támogatás:** sebességgel arányos szél Arduino + ventilátorokkal, a Beállítások menüben konfigurálható (port, sebesség-tartomány, erősség).
+
 ## v1.0.9 — 2026-06-26
 - 🔒 **Megbízhatóbb, offline is működő licencvédelem:** a licenc és a próbaverzió ellenőrzése mostantól kriptográfiailag aláírt kulcson alapul — internet nélkül is stabilan működik (max. 30 napig offline), és csak valódi visszavonáskor áll le. Frissítés után egyszer szükséges internetkapcsolat.
 - 🌐 Az „internet szükséges" üzenet immár minden támogatott nyelven megjelenik.
